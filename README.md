@@ -1,5 +1,5 @@
 # Typescript Module Bundling
 
-Supporting materials for a Youtube lesson: [Youtube](https://www.youtube.com/watch?v=rH6EcM68ots&ab_channel=CyberFountain)
+Supporting materials for a Youtube lesson: [Youtube](https://www.youtube.com/watch?v=zfJ6JHLHu4o&ab_channel=CyberFountain)
 
-![image](https://cyberfountain.ams3.digitaloceanspaces.com/images/module-bundling.png)
+![image](https://cyberfountain.ams3.digitaloceanspaces.com/images/code-splitting.png)
